@@ -1,0 +1,12 @@
+{
+    "usersUpdate": {
+        "limit": 5,
+        "requests": 1,
+        "time": 1641948499
+    },
+    "usersPhoto": {
+        "limit": 3,
+        "requests": 1,
+        "time": 1641948717
+    }
+}

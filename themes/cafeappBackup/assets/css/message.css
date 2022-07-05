@@ -1,0 +1,39 @@
+.message {
+    color: #ffffff;
+    font-size: var(--font-normal);
+    font-weight: var(--weight-bold);
+
+    display: block;
+    width: 100%;
+    padding: 15px;
+    border: 2px solid #cccccc;
+    margin-bottom: var(--area-box);
+
+    -webkit-border-radius: var(--radius-normal);
+    -moz-border-radius: var(--radius-normal);
+    border-radius: var(--radius-normal);
+}
+
+form .message{
+    text-align: center;
+}
+
+.message.success {
+    color: var(--color-green);
+    border-color: var(--color-green);
+}
+
+.message.info {
+    color: var(--color-blue);
+    border-color: var(--color-blue);
+}
+
+.message.warning {
+    color: var(--color-yellow);
+    border-color: var(--color-yellow);
+}
+
+.message.error {
+    color: var(--color-red);
+    border-color: var(--color-red);
+}

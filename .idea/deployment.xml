@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="cafecontrol" uploadOnCheckin="6b8093db-99d5-4917-87de-5d764de6a96a">
+    <serverData>
+      <paths name="cafecontrol">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="cafecontrol" />
+  </component>
+</project>
